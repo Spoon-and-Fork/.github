@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world 👋
+
+We are "Spoon and Fork" - a small group of friends who decided to try our hand at creating various convenient services for ourselves, and then for people.
 
 <!--
 
